@@ -20,7 +20,7 @@ body {
 }
 
 *::-webkit-scrollbar {
-  width: 12px;
+  width: 8px;
 }
 *::-webkit-scrollbar-track {
   background: #f1f1f1;
@@ -28,7 +28,7 @@ body {
 *::-webkit-scrollbar-thumb {
   background-color: #c1c1c1;
   border-radius: 20px;
-  border: 2px solid #c1c1c1;
+  border: 0.5px solid #c1c1c1;
 }
 
 .content {
@@ -256,7 +256,6 @@ body {
 .con-links a i {
   font-size: 1.6rem;
   position: absolute;
-  left: 18px;
   z-index: 10;
   color: #fff;
 }
