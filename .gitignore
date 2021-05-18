@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 
+.env
 myblog-bfe7b-firebase-adminsdk-2zwyl-8f799d0eb4.json
 
 # testing
